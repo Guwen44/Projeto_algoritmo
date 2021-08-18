@@ -1,2 +1,3 @@
-# Projeto_algoritmo
-Primeiros projetos que realizei do curso Algoritmo e Logica 1
+# PROJETO CURSO ALGORITMO I
+
+### Primeiros projetos que realizei do curso Algoritmo e Logica 1
